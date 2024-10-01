@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    printf("%d",5*3);
+    int a=100000,b=100000;
+    long long result=a*b;
+    printf("%d",result);
 }
