@@ -9,6 +9,7 @@ int main()
             printf("mock\n", i);
         }
         /* code */
+        printf("\n");
     }
     return 0;
 }
