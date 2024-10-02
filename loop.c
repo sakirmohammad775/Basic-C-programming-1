@@ -15,6 +15,8 @@ int main()
         i++;
     }
     printf("hello while\n");
+    printf("hello while\n");
+
 
     
     return 0;
