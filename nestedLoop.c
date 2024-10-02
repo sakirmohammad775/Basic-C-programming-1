@@ -6,7 +6,7 @@ int main()
         for (int j = 0; j < 3; j++)
         {
             /* code */
-            
+            printf("mock\n", i);
         }
         /* code */
     }
