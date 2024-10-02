@@ -7,5 +7,13 @@ int main()
     printf("before inside the box %d",i);
     printf("%d\n",i);
     }
+    int i=0;
+    while (i<5)
+    {
+        /* code */
+        printf("hello while\n");
+        i++;
+    }
+    
     return 0;
 }
