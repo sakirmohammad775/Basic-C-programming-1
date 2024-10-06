@@ -15,5 +15,8 @@ int main()
     {
         printf("Grade B");
     }
-   
+    else if( marks >= 0 && marks < 60){
+        printf("Grade Fail");
+    }
+    
 }
