@@ -13,7 +13,7 @@ int main(){
     {
         printf("Negative \n");
     }
-    else if(n>0){
+    else if(n>0){  
         printf("Positive \n");
     }
     
