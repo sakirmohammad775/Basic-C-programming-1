@@ -11,7 +11,10 @@ int main(){
     }
     if (n<0)
     {
-        print
+        printf("Negative \n");
+    }
+    else if(n>0){
+        printf("Positive \n");
     }
     
 }
