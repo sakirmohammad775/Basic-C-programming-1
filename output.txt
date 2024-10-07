@@ -1,1 +1,2 @@
-Invalid marks
+ALPHA 
+IS SMALL 
