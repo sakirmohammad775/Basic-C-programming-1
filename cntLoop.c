@@ -12,6 +12,7 @@ int main()
             }
         }
     }
-    printf("%d", cnt);
+    printf("interaction time:");
+    printf("%d",cnt);
     return 0;
 }
